@@ -8,6 +8,7 @@ import org.openftc.easyopencv.OpenCvCameraFactory;
 
 public abstract class AutoBaseTB1 extends BaseClassTB1 {
 
+    //Check for push and pull
     //Global variables
     double timeAtStop = 0;
 
